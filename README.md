@@ -7,7 +7,6 @@
 [![Join the chat at https://gitter.im/krakjoe/pthreads](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/krakjoe/pthreads?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This project provides multi-threading that is compatible with PHP based on Posix Threads.
-
 ## Highlights
 
 * An easy to use, quick to learn OO Threading API for PHP 7.2+
